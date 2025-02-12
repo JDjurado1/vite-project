@@ -1,0 +1,12 @@
+import './App.css';
+
+function App() {
+  return (
+    <div className="container">
+      <h1>James Daniel Jurado</h1>
+      <div className="box">CPEITEL</div>
+    </div>
+  );
+}
+
+export default App;
